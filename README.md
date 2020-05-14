@@ -8,4 +8,4 @@ Try overwriting the files in the following directories!
 
 (DJV directory)/etc/Text/
 
-I want ask professional users to try the translation,and feedback.
+I want ask professional users to try this and feedback. Thank you!
